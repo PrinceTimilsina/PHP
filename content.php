@@ -22,6 +22,7 @@
     }
 
     ?>
+        
     <form method="post" action="">
         <textarea name="Title" placeholder="Your Title is here..." cols="20" rows="10"></textarea>
         <textarea name="Description" placeholder="Your description is here..." cols="20" rows="10"></textarea>
